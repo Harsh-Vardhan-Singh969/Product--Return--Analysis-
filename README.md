@@ -11,6 +11,10 @@ Advanced analytics platform for identifying e-commerce return patterns with inte
 - **Multidimensional Analysis** - Explore relationships between processing time, refund amount, and ratings
 - **Temporal Heatmaps** - Identify hourly/weekly return patterns
 - **Executive Summary** - Key metrics at a glance
+### How to run this project 
+Run in Browser (Zero Setup)
+https://colab.research.google.com/assets/colab-badge.svg
+(Click the badge above to run in Google Colab - no installs needed)
 
 ## Installation
 
