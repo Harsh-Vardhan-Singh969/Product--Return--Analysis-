@@ -1,6 +1,4 @@
-# Product Return Analysis Dashboard
-
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Return+Analysis+Dashboard+Preview)
+# Product Return Analysis
 
 ## Overview
 Advanced analytics platform for identifying e-commerce return patterns with interactive visualizations. This tool helps businesses:
